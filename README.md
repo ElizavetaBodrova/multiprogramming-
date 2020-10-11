@@ -5,7 +5,7 @@
 
 1) Using WinApi (lab1)
 2) Using language tools (lab2)
-3) Using language tools with synchronized function (lab3)
+3) Using atomic function tools (lab3)
 -----
-## Readers–writers problem
+## Producer–customer problem
 ## Create thread safe queue with pop and push function using semaphore (lab4)
